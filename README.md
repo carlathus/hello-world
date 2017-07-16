@@ -1,2 +1,3 @@
 # hello-world
-The begining
+The beginning
+Carlos here. Just some grammar corrections
